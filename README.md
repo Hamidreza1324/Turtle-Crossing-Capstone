@@ -20,6 +20,8 @@ A Python-based **Turtle Crossing game** built as a capstone project. The player 
 - Level tracking with a **scoreboard**
 - Collision detection (game over on crash)
 - Level progression upon successful crossing
+- Player turtle **color customized** (blue)
+- Code fully **rewritten and commented** for clarity
 
 ## Installation
 Open terminal (Linux/Mac) or PowerShell/Command Prompt (Windows) and run the following commands:
