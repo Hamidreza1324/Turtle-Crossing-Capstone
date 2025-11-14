@@ -1,6 +1,6 @@
 """
 Turtle Crossing Game
-Author: Hamidreza Mirzaei
+Author: Hamidreza Mirzaei Danaloo
 A simple Python game using the Turtle module where the player controls a turtle
 trying to cross a busy road while avoiding moving cars. Features level progression
 and a scoreboard.
