@@ -48,4 +48,3 @@ python main.py
 - GitHub: [Hamidreza1324](https://github.com/Hamidreza1324)
 - LinkedIn: [Hamidreza Mirzaei Danaloo](https://www.linkedin.com/in/hamidreza-mirzaei-danaloo-81812b341)
 - ResearchGate: [Hamidreza Mirzaei Danaloo](https://www.researchgate.net/profile/Hamidreza-Mirzaei-Danaloo?ev=hdr_xprf)
-- 
